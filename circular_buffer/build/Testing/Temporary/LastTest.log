@@ -1,0 +1,273 @@
+Start testing: Oct 20 13:19 +07
+----------------------------------------------------------
+1/10 Testing: BufferTest.Initialization
+1/10 Test: BufferTest.Initialization
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Initialization" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Initialization" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Initialization
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Initialization
+[       OK ] BufferTest.Initialization (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Initialization" end time: Oct 20 13:19 +07
+"BufferTest.Initialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: BufferTest.PopAndPush
+2/10 Test: BufferTest.PopAndPush
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.PopAndPush" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.PopAndPush" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.PopAndPush
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.PopAndPush
+[       OK ] BufferTest.PopAndPush (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.PopAndPush" end time: Oct 20 13:19 +07
+"BufferTest.PopAndPush" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: BufferTest.Linearization
+3/10 Test: BufferTest.Linearization
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Linearization" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Linearization" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Linearization
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Linearization
+[       OK ] BufferTest.Linearization (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Linearization" end time: Oct 20 13:19 +07
+"BufferTest.Linearization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: BufferTest.PropertyMethods
+4/10 Test: BufferTest.PropertyMethods
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.PropertyMethods" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.PropertyMethods" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.PropertyMethods
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.PropertyMethods
+[       OK ] BufferTest.PropertyMethods (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.PropertyMethods" end time: Oct 20 13:19 +07
+"BufferTest.PropertyMethods" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: BufferTest.Copying
+5/10 Test: BufferTest.Copying
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Copying" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Copying" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Copying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Copying
+[       OK ] BufferTest.Copying (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Copying" end time: Oct 20 13:19 +07
+"BufferTest.Copying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: BufferTest.Rotation
+6/10 Test: BufferTest.Rotation
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Rotation" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Rotation" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Rotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Rotation
+[       OK ] BufferTest.Rotation (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Rotation" end time: Oct 20 13:19 +07
+"BufferTest.Rotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: BufferTest.Insertion
+7/10 Test: BufferTest.Insertion
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Insertion" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Insertion" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Insertion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Insertion
+[       OK ] BufferTest.Insertion (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Insertion" end time: Oct 20 13:19 +07
+"BufferTest.Insertion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: BufferTest.Erase
+8/10 Test: BufferTest.Erase
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Erase" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Erase" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Erase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Erase
+[       OK ] BufferTest.Erase (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Erase" end time: Oct 20 13:19 +07
+"BufferTest.Erase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: BufferTest.Swaping
+9/10 Test: BufferTest.Swaping
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Swaping" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Swaping" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Swaping
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Swaping
+[       OK ] BufferTest.Swaping (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Swaping" end time: Oct 20 13:19 +07
+"BufferTest.Swaping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: BufferTest.Operators
+10/10 Test: BufferTest.Operators
+Command: "/home/p1xta/OOP/circular_buffer/build/buffer_test" "--gtest_filter=BufferTest.Operators" "--gtest_also_run_disabled_tests"
+Directory: /home/p1xta/OOP/circular_buffer/build
+"BufferTest.Operators" start time: Oct 20 13:19 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/p1xta/OOP/circular_buffer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufferTest.Operators
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.Operators
+[       OK ] BufferTest.Operators (0 ms)
+[----------] 1 test from BufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.Operators" end time: Oct 20 13:19 +07
+"BufferTest.Operators" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 20 13:19 +07

@@ -1,0 +1,14 @@
+HelloTest.BasicAssertions 1 0.00343678
+BufferTest.Initialization 79 0.000102396
+BufferTest.AddingAndRemovingElements 50 5.60911e-05
+BufferTest.Linearization 63 5.18411e-05
+BufferTest.PropertyMethods 44 6.45782e-05
+BufferTest.Rotation 60 4.44767e-05
+BufferTest.Insertion 58 6.12929e-05
+BufferTest.MemoryChanges 38 3.55605e-05
+BufferTest.Copying 61 4.80687e-05
+BufferTest.Operators 61 5.02003e-05
+BufferTest.Swaping 23 0.000134361
+BufferTest.Erase 15 0.000213352
+BufferTest.PopAndPush 17 0.000233163
+---

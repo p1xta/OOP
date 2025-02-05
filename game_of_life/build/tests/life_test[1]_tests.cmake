@@ -1,0 +1,7 @@
+add_test( LifeTest.initGrid /home/p1xta/OOP/game_of_life/build/tests/life_test [==[--gtest_filter=LifeTest.initGrid]==] --gtest_also_run_disabled_tests)
+set_tests_properties( LifeTest.initGrid PROPERTIES WORKING_DIRECTORY /home/p1xta/OOP/game_of_life/build/tests SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( LifeTest.CellsMovement /home/p1xta/OOP/game_of_life/build/tests/life_test [==[--gtest_filter=LifeTest.CellsMovement]==] --gtest_also_run_disabled_tests)
+set_tests_properties( LifeTest.CellsMovement PROPERTIES WORKING_DIRECTORY /home/p1xta/OOP/game_of_life/build/tests SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( LifeTest.ParseFile /home/p1xta/OOP/game_of_life/build/tests/life_test [==[--gtest_filter=LifeTest.ParseFile]==] --gtest_also_run_disabled_tests)
+set_tests_properties( LifeTest.ParseFile PROPERTIES WORKING_DIRECTORY /home/p1xta/OOP/game_of_life/build/tests SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( life_test_TESTS LifeTest.initGrid LifeTest.CellsMovement LifeTest.ParseFile)

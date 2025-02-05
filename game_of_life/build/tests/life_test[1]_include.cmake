@@ -1,0 +1,5 @@
+if(EXISTS "/home/p1xta/OOP/game_of_life/build/tests/life_test[1]_tests.cmake")
+  include("/home/p1xta/OOP/game_of_life/build/tests/life_test[1]_tests.cmake")
+else()
+  add_test(life_test_NOT_BUILT life_test_NOT_BUILT)
+endif()

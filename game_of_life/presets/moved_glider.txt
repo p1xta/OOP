@@ -1,0 +1,9 @@
+Life 1.06
+#N Saved universe
+#R B3/S23
+30 40
+2 4
+3 2
+3 4
+4 3
+4 4

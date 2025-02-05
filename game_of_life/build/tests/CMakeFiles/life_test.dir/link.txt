@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/life_test.dir/tests.cpp.o CMakeFiles/life_test.dir/__/src/GameOfLife.cpp.o -o life_test  ../lib/libgtest_main.a -lsfml-graphics -lsfml-window -lsfml-system ../lib/libgtest.a 

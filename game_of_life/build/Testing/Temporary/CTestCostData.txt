@@ -1,0 +1,6 @@
+life_test_NOT_BUILT 0 0
+LifeTest.initGrid 25 0.00014724
+LifeTest.CellsMovement 18 0.000204317
+LifeTest.ParseFile 27 9.64923e-05
+LifeTest.initUniverse 9 0.000427062
+---

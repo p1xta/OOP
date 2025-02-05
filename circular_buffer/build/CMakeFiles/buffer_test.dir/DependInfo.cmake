@@ -1,0 +1,22 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/p1xta/OOP/circular_buffer/CircularBuffer.cpp" "CMakeFiles/buffer_test.dir/CircularBuffer.cpp.o" "gcc" "CMakeFiles/buffer_test.dir/CircularBuffer.cpp.o.d"
+  "/home/p1xta/OOP/circular_buffer/tests.cpp" "CMakeFiles/buffer_test.dir/tests.cpp.o" "gcc" "CMakeFiles/buffer_test.dir/tests.cpp.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/p1xta/OOP/circular_buffer/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/p1xta/OOP/circular_buffer/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

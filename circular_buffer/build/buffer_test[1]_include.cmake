@@ -1,0 +1,5 @@
+if(EXISTS "/home/p1xta/OOP/circular_buffer/build/buffer_test[1]_tests.cmake")
+  include("/home/p1xta/OOP/circular_buffer/build/buffer_test[1]_tests.cmake")
+else()
+  add_test(buffer_test_NOT_BUILT buffer_test_NOT_BUILT)
+endif()
